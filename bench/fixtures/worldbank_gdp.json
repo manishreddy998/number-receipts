@@ -1,0 +1,148 @@
+{
+ "gdp_by_country": [
+  {
+   "country": "Brazil",
+   "country_code": "BRA",
+   "year": 2023,
+   "gdp_current_usd": 2191131765684.63
+  },
+  {
+   "country": "Brazil",
+   "country_code": "BRA",
+   "year": 2022,
+   "gdp_current_usd": 1951923942083.32
+  },
+  {
+   "country": "Brazil",
+   "country_code": "BRA",
+   "year": 2021,
+   "gdp_current_usd": 1670647398904.9
+  },
+  {
+   "country": "Canada",
+   "country_code": "CAN",
+   "year": 2023,
+   "gdp_current_usd": 2196593836347.42
+  },
+  {
+   "country": "Canada",
+   "country_code": "CAN",
+   "year": 2022,
+   "gdp_current_usd": 2200562785046.32
+  },
+  {
+   "country": "Canada",
+   "country_code": "CAN",
+   "year": 2021,
+   "gdp_current_usd": 2022377950896.78
+  },
+  {
+   "country": "Germany",
+   "country_code": "DEU",
+   "year": 2023,
+   "gdp_current_usd": 4562207532490.28
+  },
+  {
+   "country": "Germany",
+   "country_code": "DEU",
+   "year": 2022,
+   "gdp_current_usd": 4201021706478.62
+  },
+  {
+   "country": "Germany",
+   "country_code": "DEU",
+   "year": 2021,
+   "gdp_current_usd": 4355251953410.78
+  },
+  {
+   "country": "United Kingdom",
+   "country_code": "GBR",
+   "year": 2023,
+   "gdp_current_usd": 3420796653789.08
+  },
+  {
+   "country": "United Kingdom",
+   "country_code": "GBR",
+   "year": 2022,
+   "gdp_current_usd": 3181244350465.41
+  },
+  {
+   "country": "United Kingdom",
+   "country_code": "GBR",
+   "year": 2021,
+   "gdp_current_usd": 3194559188925.93
+  },
+  {
+   "country": "India",
+   "country_code": "IND",
+   "year": 2023,
+   "gdp_current_usd": 3500906030644.76
+  },
+  {
+   "country": "India",
+   "country_code": "IND",
+   "year": 2022,
+   "gdp_current_usd": 3249938492013.47
+  },
+  {
+   "country": "India",
+   "country_code": "IND",
+   "year": 2021,
+   "gdp_current_usd": 3167270623260.47
+  },
+  {
+   "country": "Japan",
+   "country_code": "JPN",
+   "year": 2023,
+   "gdp_current_usd": 4384854269961.93
+  },
+  {
+   "country": "Japan",
+   "country_code": "JPN",
+   "year": 2022,
+   "gdp_current_usd": 4447976207314.78
+  },
+  {
+   "country": "Japan",
+   "country_code": "JPN",
+   "year": 2021,
+   "gdp_current_usd": 5225933520753.1
+  },
+  {
+   "country": "Mexico",
+   "country_code": "MEX",
+   "year": 2023,
+   "gdp_current_usd": 1794410347718.25
+  },
+  {
+   "country": "Mexico",
+   "country_code": "MEX",
+   "year": 2022,
+   "gdp_current_usd": 1466934724243.38
+  },
+  {
+   "country": "Mexico",
+   "country_code": "MEX",
+   "year": 2021,
+   "gdp_current_usd": 1316569466833.94
+  },
+  {
+   "country": "United States",
+   "country_code": "USA",
+   "year": 2023,
+   "gdp_current_usd": 27811517000000
+  },
+  {
+   "country": "United States",
+   "country_code": "USA",
+   "year": 2022,
+   "gdp_current_usd": 26054614000000
+  },
+  {
+   "country": "United States",
+   "country_code": "USA",
+   "year": 2021,
+   "gdp_current_usd": 23725645000000
+  }
+ ]
+}

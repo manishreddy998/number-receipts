@@ -1,0 +1,360 @@
+{
+ "lost_time_by_route": [
+  {
+   "route": "504",
+   "name": "King",
+   "mode": "streetcar",
+   "lost_hours": 997.7,
+   "planned_vehicle_hours": 369996.0,
+   "pct_of_planned_lost": 0.27,
+   "pct_within_ttc_control": 27.0
+  },
+  {
+   "route": "501",
+   "name": "Queen",
+   "mode": "streetcar",
+   "lost_hours": 942.3,
+   "planned_vehicle_hours": 371133.0,
+   "pct_of_planned_lost": 0.25,
+   "pct_within_ttc_control": 20.0
+  },
+  {
+   "route": "506",
+   "name": "Carlton",
+   "mode": "streetcar",
+   "lost_hours": 771.4,
+   "planned_vehicle_hours": 308237.0,
+   "pct_of_planned_lost": 0.25,
+   "pct_within_ttc_control": 26.0
+  }
+ ],
+ "lost_time_by_route_bus": [
+  {
+   "route": "52",
+   "name": "Lawrence West",
+   "mode": "bus",
+   "lost_hours": 641.7,
+   "planned_vehicle_hours": 300936.0,
+   "pct_of_planned_lost": 0.21,
+   "pct_within_ttc_control": 67.0
+  },
+  {
+   "route": "102",
+   "name": "Markham Rd",
+   "mode": "bus",
+   "lost_hours": 464.2,
+   "planned_vehicle_hours": 223468.0,
+   "pct_of_planned_lost": 0.21,
+   "pct_within_ttc_control": 75.0
+  },
+  {
+   "route": "97",
+   "name": "Yonge",
+   "mode": "bus",
+   "lost_hours": 422.3,
+   "planned_vehicle_hours": 80265.0,
+   "pct_of_planned_lost": 0.53,
+   "pct_within_ttc_control": 55.0
+  },
+  {
+   "route": "37",
+   "name": "Islington",
+   "mode": "bus",
+   "lost_hours": 371.5,
+   "planned_vehicle_hours": 112303.0,
+   "pct_of_planned_lost": 0.33,
+   "pct_within_ttc_control": 53.0
+  },
+  {
+   "route": "86",
+   "name": "Scarborough",
+   "mode": "bus",
+   "lost_hours": 349.8,
+   "planned_vehicle_hours": 126734.0,
+   "pct_of_planned_lost": 0.28,
+   "pct_within_ttc_control": 74.0
+  }
+ ],
+ "causes_for_route": [
+  {
+   "cause_group": "customers",
+   "events": 1040,
+   "lost_hours": 218.8,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "traffic_congestion",
+   "events": 422,
+   "lost_hours": 211.9,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "other_external",
+   "events": 744,
+   "lost_hours": 179.2,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "operations",
+   "events": 462,
+   "lost_hours": 115.2,
+   "within_ttc_control": true
+  },
+  {
+   "cause_group": "vehicle_equipment",
+   "events": 392,
+   "lost_hours": 77.0,
+   "within_ttc_control": true
+  },
+  {
+   "cause_group": "collision",
+   "events": 128,
+   "lost_hours": 65.8,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "security",
+   "events": 340,
+   "lost_hours": 46.9,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "infrastructure",
+   "events": 85,
+   "lost_hours": 40.1,
+   "within_ttc_control": true
+  },
+  {
+   "cause_group": "staffing",
+   "events": 156,
+   "lost_hours": 34.3,
+   "within_ttc_control": true
+  },
+  {
+   "cause_group": "weather",
+   "events": 28,
+   "lost_hours": 6.2,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "onboard_systems",
+   "events": 15,
+   "lost_hours": 2.3,
+   "within_ttc_control": true
+  },
+  {
+   "cause_group": "diversion",
+   "events": 496,
+   "lost_hours": 0.0,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "unknown",
+   "events": 14,
+   "lost_hours": 0.0,
+   "within_ttc_control": false
+  },
+  {
+   "cause_group": "redeployed",
+   "events": 8,
+   "lost_hours": 0.0,
+   "within_ttc_control": false
+  }
+ ],
+ "repeat_fault_vehicles": [
+  {
+   "mode": "bus",
+   "vehicle_number": "1233",
+   "repeat_faults": 54,
+   "equipment_faults": 60,
+   "equipment_hours": 12.0,
+   "routes_served": 21,
+   "first_seen": "2025-01-11",
+   "last_seen": "2026-09-15"
+  },
+  {
+   "mode": "bus",
+   "vehicle_number": "1603",
+   "repeat_faults": 46,
+   "equipment_faults": 52,
+   "equipment_hours": 12.6,
+   "routes_served": 16,
+   "first_seen": "2025-01-29",
+   "last_seen": "2026-09-25"
+  },
+  {
+   "mode": "bus",
+   "vehicle_number": "9011",
+   "repeat_faults": 45,
+   "equipment_faults": 51,
+   "equipment_hours": 9.2,
+   "routes_served": 8,
+   "first_seen": "2025-01-07",
+   "last_seen": "2026-09-28"
+  },
+  {
+   "mode": "bus",
+   "vehicle_number": "9002",
+   "repeat_faults": 45,
+   "equipment_faults": 51,
+   "equipment_hours": 8.0,
+   "routes_served": 5,
+   "first_seen": "2025-01-03",
+   "last_seen": "2026-09-24"
+  },
+  {
+   "mode": "bus",
+   "vehicle_number": "9019",
+   "repeat_faults": 43,
+   "equipment_faults": 49,
+   "equipment_hours": 8.0,
+   "routes_served": 5,
+   "first_seen": "2025-01-10",
+   "last_seen": "2026-09-23"
+  }
+ ],
+ "vehicle_history": {
+  "summary": [
+   {
+    "mode": "bus",
+    "vehicle_number": "1233",
+    "delay_events": 98,
+    "lost_minutes": 1300,
+    "equipment_faults": 60,
+    "equipment_minutes": 721,
+    "repeat_faults": 54,
+    "routes_served": 21,
+    "first_seen": "2025-01-11",
+    "last_seen": "2026-09-15"
+   }
+  ],
+  "recent_events": [
+   {
+    "event_date": "2026-09-15",
+    "line_text": "102 MARKHAM ROAD",
+    "code_description": "UNSANITARY",
+    "cause_group": "customers",
+    "delay_minutes": 24
+   },
+   {
+    "event_date": "2026-09-13",
+    "line_text": "904 SHEPPARD-KENNEDY E",
+    "code_description": "OTHER",
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 17
+   },
+   {
+    "event_date": "2026-08-24",
+    "line_text": "122 GRAYDON HALL",
+    "code_description": "UNSANITARY",
+    "cause_group": "customers",
+    "delay_minutes": 10
+   },
+   {
+    "event_date": "2026-08-14",
+    "line_text": "95 YORK MILLS",
+    "code_description": "DOORS",
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 10
+   },
+   {
+    "event_date": "2026-08-11",
+    "line_text": "185 SHEPPARD CENTRAL",
+    "code_description": null,
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 20
+   },
+   {
+    "event_date": "2026-08-04",
+    "line_text": "133 NEILSON",
+    "code_description": null,
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 10
+   },
+   {
+    "event_date": "2026-07-27",
+    "line_text": "133 NEILSON",
+    "code_description": null,
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 10
+   },
+   {
+    "event_date": "2026-07-21",
+    "line_text": "38 HIGHLAND CREEK",
+    "code_description": "OTHER",
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 12
+   },
+   {
+    "event_date": "2026-07-09",
+    "line_text": "116 MORNINGSIDE",
+    "code_description": "HEAT / VENT / AC",
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 8
+   },
+   {
+    "event_date": "2026-07-01",
+    "line_text": "952 LAWRENCE WEST EXPR",
+    "code_description": "HEAT / VENT / AC",
+    "cause_group": "vehicle_equipment",
+    "delay_minutes": 12
+   }
+  ]
+ },
+ "data_quality": [
+  {
+   "check_name": "exact duplicate log lines",
+   "events": 386,
+   "pct_of_events": 0.21,
+   "action": "kept once"
+  },
+  {
+   "check_name": "no vehicle number (0 or blank)",
+   "events": 25957,
+   "pct_of_events": 14.42,
+   "action": "vehicle left empty, not counted as an asset"
+  },
+  {
+   "check_name": "line value missing",
+   "events": 1864,
+   "pct_of_events": 1.04,
+   "action": "route left empty"
+  },
+  {
+   "check_name": "line value not placed on a route",
+   "events": 2952,
+   "pct_of_events": 1.64,
+   "action": "route left empty, listed in review queue"
+  },
+  {
+   "check_name": "code not in the published code list",
+   "events": 12405,
+   "pct_of_events": 6.89,
+   "action": "cause taken from the code prefix and marked"
+  },
+  {
+   "check_name": "zero-minute events",
+   "events": 50678,
+   "pct_of_events": 28.15,
+   "action": "kept as incidents, add no lost time"
+  },
+  {
+   "check_name": "single events over 300 minutes",
+   "events": 991,
+   "pct_of_events": 0.55,
+   "action": "kept, listed in review queue"
+  },
+  {
+   "check_name": "bus or streetcar running another mode's route",
+   "events": 362,
+   "pct_of_events": 0.2,
+   "action": "counted on the route it ran"
+  },
+  {
+   "check_name": "code descriptions with broken characters (count of codes, not events)",
+   "events": 72,
+   "pct_of_events": null,
+   "action": "repaired (en dash)"
+  }
+ ]
+}
