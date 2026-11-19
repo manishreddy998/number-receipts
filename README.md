@@ -96,7 +96,7 @@ shipped in [transit-work-ledger](https://github.com/manishreddy998/transit-work-
 | Development set (tuned on) | 240 | 100% | 100% | 46% / 69% | 53% / 69% |
 
 Swapped-row and wrong-field numbers come back as MISMATCH with the value the sentence should have used in 49/49
-(dev), 19/19 and 18/18 (held-out, after fixes). Per-form tables are in `bench/RESULTS_*.md`.
+(dev), 16/19 and 18/18 (held-out sets 1 and 2, after fixes). Per-form tables are in `bench/RESULTS_*.md`.
 
 How to read this honestly: the development set was used to build the checker, so 100% there means little. Each
 held-out set was written after the previous round of changes, run once, and its first score is in the table. The
